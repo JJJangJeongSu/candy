@@ -97,7 +97,7 @@ nav a {
 #nav-title {
     color:#EA1C2C;
     margin-top:0px;
-    margin-bottom:2px;
+    margin-bottom:0px;
 }
 
 #navbar-items > a{
@@ -106,7 +106,7 @@ nav a {
 }
 
 #navbar{
-    height:57px;
+    height:58px;
     padding-left:0;
     padding-right:0;
 }
